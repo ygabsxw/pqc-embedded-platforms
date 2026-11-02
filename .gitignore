@@ -1,0 +1,26 @@
+# Artefatos de compilação C/C++
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Diretórios de build
+/build/
+/bin/
+/obj/
+
+# ESP-IDF local build output and machine-specific configuration
+**/build/
+**/sdkconfig
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.suo

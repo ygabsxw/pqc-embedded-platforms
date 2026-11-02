@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Criptografia Pós-Quântica em Ambientes Simulados de IoT: Um Estudo Comparativo de Desempenho
+authors:
+  - family-names: Costa Serra Negra
+    given-names: Arthur 
+  - family-names: Costa Vianna
+    given-names: Gabriel 
+  - family-names: Diniz Reis Vianna
+    given-names: Gabriel 
+  - family-names: Silva Coxir
+    given-names: Matheus 
+  - family-names: Felix dos Santos
+    given-names: Pedro Henrique 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alcântara Souza
+    given-names: Matheus 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Nogueira Diniz
+    given-names: Rafael Henriques 
+keywords:
+  - 
+  - 
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
